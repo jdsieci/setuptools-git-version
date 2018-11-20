@@ -52,6 +52,11 @@ your repository
 
 Changes
 -------
+1.0.5 - 2018-11-20
+++++++++++++++++++
+
+- [bugfix] proper support for hyphens in git tags
+
 
 1.0.4 - 2016-06-22
 ++++++++++++++++++
