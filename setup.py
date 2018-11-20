@@ -4,9 +4,8 @@ from setuptools import setup
 setup(
     name='setuptools-git-version',
     version='1.0.5',
-    url='https://github.com/pyfidelity/setuptools-git-version',
+    url='https://github.com/jdsieci/setuptools-git-version',
     author='pyfidelity UG, JDSieci',
-    author_email='mail@pyfidelity.com',
     description='Automatically set package version from Git.',
     license='http://opensource.org/licenses/MIT',
     classifiers=[
